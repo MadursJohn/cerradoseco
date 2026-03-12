@@ -11,15 +11,15 @@ This repository hosts the official **nutritional information pages** for all Cer
 ## 🌿 Our Wines
 
 ### Branco
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_branco_2025.html
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_branco_2026.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_branco_2025.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_branco_2026.html
 ### Tinto 
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_2025.html
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafao.html
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafao_2026.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_2025.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafao.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafao_2026.html
 ### Rosado
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2025.html
--URL: https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2026.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2025.html
+URL: https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2026.html
 
 ## 🏷️ About the Labels
 
