@@ -25,7 +25,7 @@ https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2026.html
 
 All nutritional information pages are generated to comply with **EU Regulation 2021/2117**, which requires alcoholic beverages sold in the EU to display full ingredient and nutritional declarations.
 
-Each page is linked via a **QR code** on the wine's physical label, making the information accessible to anyone with a phone — no app required.
+Each page is linked via a **QR code** on the wine's physical label, making the information accessible to anyone with a phone, no app required.
 
 **Ingredients (all wines):** Grapes, preservatives (sulphites). Bottled or packaged under protective atmosphere.
 
