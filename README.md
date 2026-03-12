@@ -27,8 +27,6 @@ All nutritional information pages are generated to comply with **EU Regulation 2
 
 Each page is linked via a **QR code** on the wine's physical label, making the information accessible to anyone with a phone, no app required.
 
-**Ingredients (all wines):** Grapes, preservatives (sulphites). Bottled or packaged under protective atmosphere.
-
 ---
 
 ## 👨‍🌾 Produced & Bottled by my father
