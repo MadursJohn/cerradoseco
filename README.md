@@ -17,6 +17,7 @@ https://madursjohn.github.io/cerradoseco/nutritional_info_branco_2026.html
 https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_2025.html
 https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafao.html
 https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafao_2026.html
+https://madursjohn.github.io/cerradoseco/nutritional_info_tinto_garrafa_2026.html
 ### Rosado
 https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2025.html
 https://madursjohn.github.io/cerradoseco/nutritional_info_rosado_2026.html
